@@ -1,4 +1,4 @@
-# Sorting Algorithms Analysis
+# Shortest Path Algorithms Analysis
 
 ## Escuela Colombiana de Ingeniería Julio Garavito  
 **Author:** Sebastian Cardona Parra  
